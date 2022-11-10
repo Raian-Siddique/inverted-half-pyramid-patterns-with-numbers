@@ -4,7 +4,7 @@
 public class invertedHalfPyramidPatternsWithNumbers {
 
     public static void inverted_Half_Pyramid_WithNumbers(int n) {
-
+        // outer Loop
         for (int i = 1; i <= n; i++) {
 
             // inner numbers
